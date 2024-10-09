@@ -1,6 +1,6 @@
 function sendChatNotification() {
 
-  const url = 'https://chat.googleapis.com/v1/spaces/AAAABaUuyZo/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=8YDP4JCX4olOHDoZXhDDooB9xxhYO8-DA98SiBxkkvQ'
+  const url = 'webhook'
 
   var message = {
     "cards": [
